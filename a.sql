@@ -1,4 +1,4 @@
-Question 1: Table: Employees
+## Question 1: Table: Employees
 
 +-------------+---------+
 | Column Name | Type    |
